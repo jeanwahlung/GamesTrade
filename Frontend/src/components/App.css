@@ -1,0 +1,55 @@
+.my_container h1{
+    color: white; /* or hexidecimal */
+ }
+
+ .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: red !important;
+    color: white !important;
+    width: 200px;
+}
+
+a {
+    color: red !important;
+}
+
+a1 {
+    color: white !important;
+}
+
+.row {
+    display: contents !important;
+}
+
+.card-img-top {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+}
+
+.imagen {
+    width: 454px;
+    height: 332px;
+    object-fit: cover;
+}
+
+.id {
+    font-size:25px;
+    margin-left: 12px;
+}
+
+.nt {
+    color:transparent !important;
+}
+
+.boton1 {
+    margin-left: 43px;
+}
+
+.inter {
+    width: 250px;
+}
+
+.bot1 {
+    margin-top: 50px;
+    margin-left: 30px;;
+}
